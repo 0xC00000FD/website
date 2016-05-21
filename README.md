@@ -10,6 +10,6 @@ The Task, Suggestions and Feedback Management will all be handled on Trello. We 
     + e.g. on task "Implement Google Calendar" an Observer could say "I hate Google Calendar, don't use it!" thus adding their voice to how the Website will be
   - Up-vote to show the Developers which Feature should be prioritised!
 
-To be added as an Observer on Trello, or if you think you could Contribute to some of the code, ** Contact Arend @ ntnbrink1@gmail.com** OR on **GroupMe: https://groupme.com/join_group/19954104/neoKEQ**
+To be added as an Observer on Trello, or if you think you could Contribute to some of the code, **Contact Arend @ ntnbrink1@gmail.com** OR on **GroupMe: https://groupme.com/join_group/19954104/neoKEQ**
 
 For anything else, contact either **Arend** or **The_Nightstalk3r**
