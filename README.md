@@ -5,11 +5,11 @@ The great thing about making our own website from the groun up is that we get to
 ## Project Management
 The Task, Suggestions and Feedback Management will all be handled on Trello. We will use Trello for the reasons of it being:
 1. Easy to use
-2. Allows "Observers" who can offer feedback and suggestions via commenting on and Up-voting individual tasks
+2. Allows Members to offer feedback and suggestions via commenting on and Up-voting individual tasks
   - Comment to add feedback and make suggestions for an individual task
-    + e.g. on task "Implement Google Calendar" an Observer could say "I hate Google Calendar, don't use it!" thus adding their voice to how the Website will be
+    + e.g. on task "Implement Google Calendar" a Member could say "I hate Google Calendar, don't use it!" thus adding their voice to how the Website will be created
   - Up-vote to show the Developers which Feature should be prioritised!
 
-To be added as an Observer on Trello, or if you think you could Contribute to some of the code, **Contact Arend @ ntnbrink1@gmail.com** OR on **GroupMe**
+To be added as a Member on Trello, or if you think you could Contribute to some of the code, either **Arend** or **The_Nightstalk3r**
 
-For anything else, contact either **Arend** or **The_Nightstalk3r**
+For anything else, **Contact Support @ support@jsfar.com**

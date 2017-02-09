@@ -1,0 +1,178 @@
+/**
+* Main CSS for Portfolio Homepage
+* Author: Anton Brink - Saborknight;
+**/
+/**
+* Contact
+**/
+.contact {
+	position: fixed;
+	top: -2px;
+	right: -2px;
+	background-color: #323338;
+	border-radius: 4px;
+	z-index: 100;
+	transition: all 0.3s ease 0s;
+}
+.contact:hover, .contact:focus {
+	background-color: #3E3F44;
+}
+.contact a {
+	text-decoration: none;
+}
+.contact p {
+	text-align: right;
+	color: #fff;
+	font-size: 14pt;
+	padding: 0.2em 0.6em;
+	margin: 0;
+	transition: all 0.3s ease 0s;
+}
+.contact:hover p, .contact:focus p {
+	padding: 0.2em 0.6em 0.6em 2em;
+}
+.contact p:before {
+	content: '\f108';
+	text-align: center;
+	/*font: normal 28px/1 'Genericons';*/
+	font-family: 'Genericons';
+	display: inline-block;
+	margin-right: 0.4em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.yes-mobile {
+	display: none;
+}
+@media (max-width:480px) {
+	.contact {
+		top: initial;
+		bottom: 0.7em;
+		right: 5%;
+	}
+	.contact p {
+		transition: none;
+		padding: 0.4em 1em;
+	}
+	.contact p:before {
+		margin: 0;
+	}
+	.contact:hover p, .contact:focus p, .contact:active p {
+		padding: 0.4em 1em;
+	}
+	.no-mobile {
+		display: none;
+	}
+	.yes-mobile {
+		display: initial;
+	}
+}
+
+/**
+* Footer
+**/
+header h2 {
+	font-weight: 100;
+}
+header.fb h2:before {
+	content: '\f203';
+	text-align: center;
+	font: normal 28px/1 'Genericons';
+	display: inline-block;
+	margin-right: 0.4em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+header.linkedin h2:before {
+	content: '\f208';
+	text-align: center;
+	font: normal 28px/1 'Genericons';
+	display: inline-block;
+	margin-right: 0.4em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+header.cv h2:before {
+	content: '\f415';
+	text-align: center;
+	font: normal 28px/1 'Genericons';
+	display: inline-block;
+	margin-right: 0.4em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.custom-row > * {
+	width: 33%;
+	float: left;
+	padding: 0 0 0 1em;
+}
+.custom-row {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+@media (max-width:480px) {
+	.custom-row > * {
+		width: 100%;
+		float: none;
+		padding: 0.4em 0;
+	}
+	.custom-row {
+		display: block;
+	}
+}
+
+/**
+* Header Animations
+**/
+#nav a {
+	border-radius: 4px;
+}
+#nav li:first-of-type a {
+	-webkit-animation: nav-dance 6s ease 0.5s 1 normal;
+	-moz-animation: nav-dance 6s ease 0.5s 1 normal;
+	animation: nav-dance 6s ease 0.5s 1 normal;
+}
+#nav li:nth-of-type(2) a {
+	-webkit-animation: nav-dance 6s ease 2s 1 normal;
+	-moz-animation: nav-dance 6s ease 2s 1 normal;
+	animation: nav-dance 6s ease 2s 1 normal;
+}
+#nav li:last-of-type a {
+	-webkit-animation: nav-dance 6s ease 3.5s 1 normal;
+	-moz-animation: nav-dance 6s ease 3.5s 1 normal;
+	animation: nav-dance 6s ease 3.5s 1 normal;
+}
+/* Nav Bar Animations */
+@-webkit-keyframes nav-dance {
+	0%, 33.3% {
+		background-color: transparent;
+		color: #000;
+	}
+	16.6% {
+		background-color: #323338;
+		color: #fff;
+	}
+}
+
+@-moz-keyframes nav-dance {
+	0%, 33.3% {
+		background-color: transparent;
+		color: #000;
+	}
+	16.6% {
+		background-color: #323338;
+		color: #fff;
+	}
+}
+
+@keyframes nav-dance {
+	0%, 33.3% {
+		background-color: transparent;
+		color: #000;
+	}
+	16.6% {
+		background-color: #323338;
+		color: #fff;
+	}
+}
