@@ -49,6 +49,10 @@
 	padding: 2.5em 0em;
 }
 
+#header {
+	background-image: url(../images/banner1.3.jpg);
+}
+
 /**
 * Content
 	height: 675px;
@@ -320,4 +324,12 @@ header.section1 h2:before {
 
 .fullwidth {
 	width: 100%;
+}
+
+/**
+* Header
+**/
+#logo h1 a {
+	color: white;
+	text-shadow: 2px 2px 8px #323338;
 }
