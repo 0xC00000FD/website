@@ -277,8 +277,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00424242', e
 header h2 {
 	font-weight: 100;
 }
-header.fb h2:before {
-	content: '\f203';
+header.section3 h2:before {
+	content: '\f1b6';
 	text-align: center;
 	font: normal 28px/1 'Genericons';
 	display: inline-block;
@@ -286,8 +286,8 @@ header.fb h2:before {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-header.linkedin h2:before {
-	content: '\f208';
+header.section2 h2:before {
+	content: '\f132';
 	text-align: center;
 	font: normal 28px/1 'Genericons';
 	display: inline-block;
@@ -295,7 +295,7 @@ header.linkedin h2:before {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-header.cv h2:before {
+header.section1 h2:before {
 	content: '\f415';
 	text-align: center;
 	font: normal 28px/1 'Genericons';
@@ -316,4 +316,8 @@ header.cv h2:before {
 }
 .style3 li:last-of-type p {
 	color: #8A8A8A;
+}
+
+.fullwidth {
+	width: 100%;
 }
