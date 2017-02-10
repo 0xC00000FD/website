@@ -1,7 +1,7 @@
 <?php
 $pageTitle = 'contact';
 
-require('includes/config.inc.php');
+require('inc/config.php');
 
 // reCaptcha declarations
 $publicKey = '6LdlChUUAAAAAMkYKo04YgrE-rlrCM6X4EtYI47N';

@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'application form';
+$pageTitle = 'calendar';
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -14,9 +14,16 @@ $pageTitle = 'application form';
 		<div id="wrapper">
 			<?php include('layout/header.php'); ?>
 			<div id="page">
-				<div class="container" style="width: 100%;">
-					<div class="application-form">
-						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffQ3kp8zBFGs_sILJzbfKiJTB1g54p1aik4WqLwOrhdOx1vw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+							<section id="content" >
+								<header>
+									<h2>Coming Soon!</h2>
+									<span>Our Hamsters are spinning the wheels of magic as fast as they can...</span>
+								</header>
+							</section>
+						</div>
 					</div>
 				</div>
 			</div>

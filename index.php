@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "home";
+$pageTitle = 'home';
 ?>
 <!DOCTYPE HTML>
 <html>
