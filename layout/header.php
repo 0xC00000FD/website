@@ -11,9 +11,8 @@
 					<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<!-- <li <?php /*$pageTitle === 'home' ? echo 'class="active"' : null;*/ ?>><a href="about.php">About the Unit</a></li> -->
-							<li <?php $pageTitle === 'calendar' ? echo 'class="active"' : null; ?>><a href="calendar.php">Events Calendar</a></li>
-							<li <?php $pageTitle === 'application form' ? echo 'class="active"' : null; ?>><a href="application-form.php">Application Form</a></li>
+							<li <?php echo $pageTitle === 'calendar' ? 'class="active"' : null; ?>><a href="calendar.php">Events Calendar</a></li>
+							<li <?php echo $pageTitle === 'application form' ? 'class="active"' : null; ?>><a href="application-form.php">Application Form</a></li>
 						</ul>
 					</nav>
 				</div>

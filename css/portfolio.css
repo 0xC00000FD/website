@@ -278,9 +278,9 @@ header h2 {
 	font-weight: 100;
 }
 header.section3 h2:before {
-	content: '\f1b6';
+	content: '\f082';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;
@@ -289,16 +289,16 @@ header.section3 h2:before {
 header.section2 h2:before {
 	content: '\f132';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 header.section1 h2:before {
-	content: '\f415';
+	content: '\f1b6';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;
