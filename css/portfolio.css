@@ -60,7 +60,6 @@ h3 {
 	line-height: 2;
 	font-size: 18pt;
 	margin: 1em 0;
-	/*font-weight: inherit;*/
 }
 .application-form {
 	position: relative;
@@ -111,8 +110,8 @@ article {
 article img {
 	height: auto;
 	width: 33%;
-	// height: 13rem;
-	// width: auto;
+	height: 13rem;
+	width: auto;
 }
 article a {
 	width: 100%;
