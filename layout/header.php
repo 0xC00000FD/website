@@ -4,8 +4,8 @@
 					
 					<!-- Logo -->
 					<div id="logo">
-						<h1><a href="./">160th JSFAR</a></h1>
-						<span>Recon, Mechanized and Air</span>
+						<h1><a href="./">160th Joint Special Forces</a></h1>
+						<span>Army Rangers</span>
 					</div>
 					
 					<!-- Nav -->

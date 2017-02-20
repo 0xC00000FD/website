@@ -53,6 +53,19 @@
 	background-image: url(../images/banner3.2.jpg);
 }
 
+#logo h1 a {
+	font-size: 3em;
+	color: white;
+	text-shadow: 2px 2px 8px #323338;
+}
+
+#logo span {
+	color: #4B4B4B;
+	font-weight: bolder;
+	font-size: 2em;
+	text-shadow: 2px 2px 5px #E1E1E1;
+}
+
 /**
 * Content
 **/
@@ -332,12 +345,4 @@ header.section1 h2:before {
 
 .fullwidth {
 	width: 100%;
-}
-
-/**
-* Header
-**/
-#logo h1 a {
-	color: white;
-	text-shadow: 2px 2px 8px #323338;
 }
