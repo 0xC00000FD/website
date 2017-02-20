@@ -27,7 +27,7 @@ $pageTitle = 'home';
 						</div>
 
 						<div class="9u skel-cell-important">
-							<section id="content" class="home">
+							<section id="content">
 								<header>
 									<h2>Motto</h2>
 								</header>
