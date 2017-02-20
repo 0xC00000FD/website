@@ -15,6 +15,7 @@
 			<link rel="stylesheet" href="css/style.css" />
 		</noscript>
 		<link rel="stylesheet" type="text/css" href="css/genericons/genericons.css">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="css/portfolio.css">
 		<link rel="stylesheet" type="text/css" href="css/portfolio-mobile.css">
 		<link rel="icon" href="./favicon.ico">

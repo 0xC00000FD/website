@@ -49,11 +49,63 @@
 	padding: 2.5em 0em;
 }
 
+#header .container {
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 10;
+}
+
+#header {
+	background-image: url(../images/banner3.2.jpg);
+}
+
+#header:after {
+	background-color: rgba(0,0,0,0.46);
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+#logo h1 a {
+	font-size: 3em;
+	color: white;
+	text-shadow: 2px 2px 8px #323338;
+	font-weight: 700;
+}
+
+#logo span {
+	color: #D4D4D4;
+	font-weight: 700;
+	font-size: 2.5em;
+	text-shadow: 2px 2px 6px #424242;
+}
+
+#header #nav a {
+	color: #FFF;
+}
+
+#header #nav li:hover {
+	background: #323338;
+	border-radius: 4px;
+}
+
 /**
 * Content
-	height: 675px;
-	width: 100%;
 **/
+h3 {
+	line-height: 2;
+	font-size: 18pt;
+	margin: 1em 0;
+}
+.homepage li {
+	line-height: 1;
+	font-size: 11pt;
+	color: #000;
+}
 .application-form {
 	position: relative;
 	padding: 25px 0 56.25% 0;
@@ -103,8 +155,8 @@ article {
 article img {
 	height: auto;
 	width: 33%;
-	// height: 13rem;
-	// width: auto;
+	height: 13rem;
+	width: auto;
 }
 article a {
 	width: 100%;
@@ -212,8 +264,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00424242', e
 	outline: 0;
 }
 .contact-form input::-moz-placeholder, .contact-form textarea::-moz-placeholder {
-    color: #999;
-    opacity: 1;
+	color: #999;
+	opacity: 1;
 }
 .contact-form button {
 	display: inline-block;
@@ -278,9 +330,9 @@ header h2 {
 	font-weight: 100;
 }
 header.section3 h2:before {
-	content: '\f1b6';
+	content: '\f082';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;
@@ -289,16 +341,16 @@ header.section3 h2:before {
 header.section2 h2:before {
 	content: '\f132';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 header.section1 h2:before {
-	content: '\f415';
+	content: '\f1b6';
 	text-align: center;
-	font: normal 28px/1 'Genericons';
+	font: normal 28px/1 'Fontawesome';
 	display: inline-block;
 	margin-right: 0.4em;
 	-webkit-font-smoothing: antialiased;

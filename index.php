@@ -27,7 +27,7 @@ $pageTitle = 'home';
 						</div>
 
 						<div class="9u skel-cell-important">
-							<section id="content" >
+							<section id="content">
 								<header>
 									<h2>Motto</h2>
 								</header>
@@ -38,7 +38,7 @@ $pageTitle = 'home';
 								<p>
 								The main group is divided into the main assault group mechanized infantry and special forces (Reconnaissance). The mechanized infantry specialises in quick deployment through paradrop and full frontal assault with heavy armoured elements as extra support. The Special Forces are highly trained in any kind of situation e.g hostage rescue and HVT elimination. The 'Army Rangers' are supported by rotary and fixed wing pilots and armoured vehicle crew. These groups provide logistic support and fire support.</p>
 								<h3>Unit Philosophy</h3>
-								<ul>
+								<ul class="style1">
 									<li>NATO ranking system adjusted to the player's team (Air Force - Army). Promotions are earned by participation in Special Operations (SO).</li>
 									<li>Higher ranked players cannot force a lower ranked player to do their bidding. Ranks are only in place for SOs.</li>
 									<li>Any inner unit disagreements are discussed publicly if possible, and taken to Command if agreements can not be reached.</li>
@@ -48,7 +48,7 @@ $pageTitle = 'home';
 									<li>Fun is one of the main goals and will always have a higher priority than performance.</li>
 								</ul>
 								<h3>Rules/Requirements</h3>
-								<ul>
+								<ul class="style1">
 									<li>Must have a working microphone and preferably experience with TFAR.</li>
 									<li>English is the main language in the unit and during operations. Therefore a moderate level of the English language is required.</li>
 									<li>Age for joining players is 16 or above. Players younger than the threshold can apply and are expected to act as maturely as the older players.</li>

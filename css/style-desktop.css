@@ -90,12 +90,12 @@
 				color: #323338;
 			}
 
-
+/*
 			#nav > ul > li > a:hover
 			{
 				color: #FFF;
 			}
-
+*/
 			#nav li.active a
 			{
 				background: #323338;
