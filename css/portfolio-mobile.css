@@ -57,6 +57,10 @@
 		text-align: left;
 		float: none;
 	}
+	.iframe-wrapper {
+		overflow-y: scroll;
+		width: 100%;
+	}
 	.content-text {
 		float: none;
 	}

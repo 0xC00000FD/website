@@ -30,6 +30,7 @@
 	p {
 		margin-bottom: 1.5em;
 		line-height: 180%;
+		font-size: 13pt;
 	}
 
 	a {
@@ -710,13 +711,11 @@ ul.style3 .first {
 
 
 /*********************************************************************************/
-/* Copyright                                                                     */
+/* Teamspeak                                                                     */
 /*********************************************************************************/
 	
 	.ts-viewer {
-		width: 25%;
-		margin: 0 auto;
-		padding: 1em;
+		width: 100%;
 		background: white;
 	}
 
