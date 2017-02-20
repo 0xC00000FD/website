@@ -55,9 +55,13 @@
 
 /**
 * Content
-	height: 675px;
-	width: 100%;
 **/
+h3 {
+	line-height: 2;
+	font-size: 18pt;
+	margin: 1em 0;
+	/*font-weight: inherit;*/
+}
 .application-form {
 	position: relative;
 	padding: 25px 0 56.25% 0;
