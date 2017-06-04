@@ -9,7 +9,7 @@
 								</header>
 								<ul class="style3">
 									<li class="first">
-										<p class="date"><a class="fullwidth" href="http://steamcommunity.com/groups/160thJSFAR">160th JSFAR</a></p>
+										<p class="date"><a class="fullwidth" href="http://steamcommunity.com/groups/JSFAR">JSFAR Steam Group</a></p>
 									</li>
 									<li>
 										<p>Find our Steam Group!</p>
@@ -24,7 +24,7 @@
 								</header>
 								<ul class="style3">
 									<li class="first">
-										<p class="date"><a class="fullwidth" href="https://units.arma3.com/unit/160thjsfar">160th JSFAR</a></p>
+										<p class="date"><a class="fullwidth" href="https://units.arma3.com/unit/jsfar">JSFAR Arma 3 Units Page</a></p>
 									</li>
 									<li>
 										<p>We can also be found on the Arma 3 Units website!</p>
@@ -39,7 +39,7 @@
 								</header>
 								<ul class="style3">
 									<li class="first">
-										<p class="date"><a class="fullwidth" href="https://www.facebook.com/160thjsfar/">160th JSFAR</a></p>
+										<p class="date"><a class="fullwidth" href="https://www.facebook.com/JSFARA3/">JSFAR Facebook Page</a></p>
 									</li>
 									<li>
 										<p>Visit our Facebook page for announcements!</p>
@@ -54,7 +54,7 @@
 			<!-- Copyright -->
 			<div id="copyright">
 				<div class="container">
-					<p style="margin-bottom: 0;">Copyright 160th JSFAR &copy; 2017</p>
+					<p style="margin-bottom: 0;">Copyright JSFAR &copy; 2017</p>
 					<p style="margin-bottom: 0.5em;">Implemented by <a href="http://www.saborknight.com">Saborknight Media</a></p>
 				</div>
 			</div>
