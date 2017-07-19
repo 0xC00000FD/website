@@ -1,0 +1,46 @@
+{
+  "name": "jsfar-website",
+  "version": "0.1.2",
+  "description": "JSFAR Website construction area. Beware the falling debris that brings our calamity.",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-connect-php": "^1.0.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-prettyerror": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-responsive": "^2.7.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "run-sequence": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saborknight/jsfar-website.git"
+  },
+  "keywords": [
+    "website",
+    "php",
+    "sass",
+    "scss",
+    "calendar"
+  ],
+  "author": "Saborknight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saborknight/jsfar-website/issues"
+  },
+  "homepage": "https://github.com/Saborknight/jsfar-website#readme"
+}

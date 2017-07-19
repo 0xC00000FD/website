@@ -1,0 +1,18 @@
+node_modules
+
+# Environmnent specific
+env.json
+
+# Filetype
+# html will be generated from PHP files which are listed in the phpRender array
+*.html
+*.map
+.htaccess
+
+# Specific
+dev/assets/css/*.css
+dev/assets/**/app.+(min.js,js,min.css,css)
+
+# Don't add images unless they're in the originals directory
+dev/assets/images
+!dev/assets/images/originals

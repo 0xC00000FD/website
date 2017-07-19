@@ -1,0 +1,92 @@
+{
+	"dev": "dev",
+	"build": "dist",
+	"copy": {
+		"files": [
+			"dev/*",
+			"dev/**/*.php",
+			"dev/*.ico",
+			"dev/.htaccess"
+		]
+	},
+	"delete": {
+		"files": [
+			"dev/.htaccess",
+			"dev/**/*.html"
+		]
+	},
+	"apacheConf": {
+		"htaccess": {
+			"baseFile": "dev/.htaccess.base",
+			"productionFile": "dev/.htaccess.production",
+			"stagingFile": "dev/.htaccess.staging"
+		}
+	},
+	"images": {
+		"base": "/assets/images",
+		"source": "/assets/images/originals",
+		"processingIgnore": "svg, webp",
+		"resizeConfig": {
+			"*.+(jpg|jpeg|png|gif|tiff)": {
+				"quality": 100
+			},
+			"*.+(jpg|jpeg|png)": [
+				{
+					"rename": { "extname": ".webp" }
+				},
+				{
+					"width": 320,
+					"rename": {
+						"suffix": "-320",
+						"extname": ".webp"
+					}
+				}
+			],
+			"banner-*": {
+				"width": 1900,
+				"rename": { "suffix": "-1900" }
+			}
+		},
+		"resizeOptions": {
+			"errorOnEnlargement": false,
+			"errorOnUnusedImage": false,
+			"passThroughUnused": true,
+			"skipOnEnlargement": true,
+			"silent": true
+		},
+		"compressionOptions": {}
+	},
+	"html": {
+		"base": "",
+		"phpRender": [
+			"dev/contact",
+			"dev/construction"
+		],
+		"minifyOptions": {"collapseWhitespace": true}
+	},
+	"scripts": {
+		"base": "/assets/js",
+		"source": "/script.js",
+		"concat": [
+			"dev/assets/js/libs/*.js",
+			"dev/assets/js/custom.js"
+		],
+		"concatOutput": "/app.js",
+		"minifyOutput": "/app.min.js"
+	},
+	"styles": {
+		"base": "/assets/scss",
+		"css": "/assets/css",
+		"compileOptions": {},
+		"concat": [
+			"dev/assets/scss/libs/*.css",
+			"dev/assets/css/*.css",
+			"!dev/assets/css/*.min.css",
+			"!dev/assets/css/app.css",
+			"!dev/assets/css/app.min.css"
+		],
+		"concatOutput": "/app.css",
+		"minifyOutput": "/app.min.css",
+		"minifyOptions": {}
+	}
+}
