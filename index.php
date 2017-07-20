@@ -86,7 +86,6 @@ $pageTitle = 'home';
 							</section>
 						</div>
 					</div>
-
 				</div>	
 			</div>
 <?php
