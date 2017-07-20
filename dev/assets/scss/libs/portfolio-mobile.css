@@ -1,0 +1,97 @@
+/**
+* Mobile CSS for Portfolio sub-pages
+* Author: Anton Brink - Saborknight;
+**/
+/**
+* Contact
+**/
+@media (max-width:480px) {
+	.contact {
+		top: initial;
+		bottom: 0.7em;
+		right: 5%;
+	}
+	.contact p {
+		transition: none;
+		padding: 0.4em 1em;
+	}
+	.contact p:before {
+		margin: 0;
+	}
+	.contact:hover p, .contact:focus p, .contact:active p {
+		padding: 0.4em 1em;
+	}
+}
+
+/**
+* Content
+**/
+@media (max-width:480px) {
+	#page {
+		padding: 1em 0;
+	}/*
+	.film-portfolio iframe {
+		height: auto;
+	}*/
+	.photo-cta {
+		height: auto;
+		bottom: 0;
+		background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 1%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(1%,rgba(0,0,0,0.8)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 1%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 1%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 1%,rgba(0,0,0,0) 100%); /* IE10+ */
+		background: linear-gradient(to bottom,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.8) 1%,rgba(0,0,0,0) 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+		box-shadow: none;
+		transition: none;
+	}
+	a {
+		text-decoration: none;
+	}
+	.container a img {
+		width: 100%;
+		float: none;
+	}
+	.container a:nth-of-type(2n) .content-text {
+		text-align: left;
+		float: none;
+	}
+	.iframe-wrapper {
+		overflow-y: scroll;
+		width: 100%;
+	}
+	.content-text {
+		float: none;
+	}
+	h1 {
+		margin-bottom: 0.8em;
+	}
+	.features {
+		position: static;
+	}
+	.features mark {
+		padding: 0 0.6em;
+		display: inline-block;
+		margin-bottom: 0.3em;
+	}
+	.no-mobile {
+		display: none;
+	}
+	.yes-mobile {
+		display: initial;
+	}
+}
+/**
+* Footer
+**/
+@media (max-width:480px) {
+	.custom-row > * {
+		width: 100%;
+		float: none;
+		padding: 0.4em 0;
+	}
+	.custom-row {
+		display: block;
+	}
+}
