@@ -1,5 +1,5 @@
 
-		<title><?php echo ucwords($pageTitle); ?> | 160th JSFAR - Under Construction</title>
+		<title><?php echo ucwords($pageTitle); ?> | JSFAR - Under Construction</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -18,6 +18,18 @@
 		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="css/portfolio.css">
 		<link rel="stylesheet" type="text/css" href="css/portfolio-mobile.css">
-		<link rel="icon" href="./favicon.ico">
+
+		<!-- Favicons generated: http://realfavicongenerator.net/favicon_result?file_id=p1bmfuq7p918gp11rl1ie0q071lpk6#.WYEBzumQyUk -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+		<link rel="manifest" href="/images/favicons/manifest.json">
+		<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#5bbdd5">
+		<link rel="shortcut icon" href="/images/favicons/favicon.ico">
+		<meta name="apple-mobile-web-app-title" content="JSFAR International Gaming">
+		<meta name="application-name" content="JSFAR International Gaming">
+		<meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+		<meta name="theme-color" content="#ffffff">
+
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
