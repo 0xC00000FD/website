@@ -24,7 +24,7 @@
 								</header>
 								<ul class="style3">
 									<li class="first">
-										<p class="date"><a class="fullwidth" href="https://units.arma3.com/unit/jsfar">JSFAR Arma 3 Units Page</a></p>
+										<p class="date"><a class="fullwidth" href="https://bit.ly/jsfar-arma-3-units">JSFAR Arma 3 Units Page</a></p>
 									</li>
 									<li>
 										<p>We can also be found on the Arma 3 Units website!</p>
