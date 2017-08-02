@@ -14,7 +14,8 @@ $pageTitle = 'calendar';
 		<div id="wrapper">
 			<?php include('layout/header.php'); ?>
 			<div id="page">
-				<div class="container">
+				<?php include('layout/coming-soon.php'); ?>
+				<!-- <div class="container">
 					<div class="row">
 						<div class="12u">
 							<section id="content" class="iframe-wrapper" style="text-align: center;">
@@ -22,7 +23,7 @@ $pageTitle = 'calendar';
 							</section>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</body>
