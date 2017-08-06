@@ -1,4 +1,4 @@
-# 160th JSFAR Website!
+# JSFAR Website!
 It's about time we made a website custom to our style and independent of a free 3rd-party service like Enjin. Thus, this project will aim to build, from the Ground up a new website with all the useful functionality usually offered by Enjin and MORE!
 The great thing about making our own website from the groun up is that we get to choose how things work and how things look. Even if it means building it ourselves.
 
