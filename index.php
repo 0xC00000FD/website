@@ -31,7 +31,7 @@ $pageTitle = 'home';
 							<header>
 								<h2>Intro</h2>
 							</header>
-							<p><strong>The Joint Special Forces Airborne Regiment is a tactical realism battlegroup. 2 active Platoons, 1 Air Wing and a Reserve Group make up the JSFA Regiment. The JSFAR is mostly deployed in destabilized regions to restore peace and order.</strong></p>
+							<p><strong>The Joint Special Forces Airborne Regiment (founded in January 2016) is a tactical realism battlegroup. 2 active Platoons, 1 Air Wing and a Reserve Group make up the JSFA Regiment. The JSFAR is mostly deployed in destabilized regions to restore peace and order.</strong></p>
 							<p>Check out our <a href="http://bit.ly/jsfar-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
 							<header>
 								<h2>Biography</h2>

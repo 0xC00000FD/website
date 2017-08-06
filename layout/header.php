@@ -4,8 +4,7 @@
 					
 					<!-- Logo -->
 					<div id="logo">
-						<h1><a href="./">160th Joint Special Forces</a></h1>
-						<span>Army Rangers</span>
+						<h1><a href="./">Joint Special Forces Airborne Regiment</a></h1>
 					</div>
 					
 					<!-- Nav -->
