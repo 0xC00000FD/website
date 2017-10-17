@@ -106,7 +106,7 @@ if( isset($_POST['submit']) ) {
 			<?php include('layout/header.php'); ?>
 			<div id="page">
 				<div class="container contact-form">
-					<form action="" method="POST">
+					<form method="POST">
 						<h1>Say Hi!</h1>
 
 						<!-- System Messages -->
@@ -129,19 +129,19 @@ if( isset($_POST['submit']) ) {
 						<!-- Name -->
 						<div class="form-group">
 							<label for="user">Name <span style="color: red;">*</span></label>
-							<input id="user" name="user" tabindex="0" placeholder="Jumping Jack Flash" value="<?php echo $fromName; ?>"></input>
+							<input id="user" name="user" tabindex="0" placeholder="Jumping Jack Flash" value="<?php echo $fromName; ?>">
 						</div>
 						
 						<!-- E-mail -->
 						<div class="form-group">
 							<label for="email">E-mail <span style="color: red;">*</span></label>
-							<input id="email" name="email" placeholder="random@email.com" value="<?php echo $fromEmail; ?>"></input>
+							<input id="email" name="email" placeholder="random@email.com" value="<?php echo $fromEmail; ?>">
 						</div>
 
 						<!-- Subject -->
 						<div class="form-group">
 							<label for="subject">Subject <span style="color: red;">*</span></label>
-							<input id="subject" name="subject" placeholder="Something Concise" value="<?php echo $subject; ?>"></input>
+							<input id="subject" name="subject" placeholder="Something Concise" value="<?php echo $subject; ?>">
 						</div>
 
 						<!-- Body -->
@@ -162,6 +162,6 @@ if( isset($_POST['submit']) ) {
 			<?php include('layout/footer.php'); ?>
 
 		</div>
+		<script src='https://www.google.com/recaptcha/api.js' async defer></script>
 	</body>
-	<script src='https://www.google.com/recaptcha/api.js' async defer></script>
 </html>
