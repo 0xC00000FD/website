@@ -75,8 +75,7 @@ gulp.task('minifyImages', ['copyImages'], function() {
 	return gulp.src([env.dev + env.images.source + '/**/*', '!' + env.dev + env.images.source + '/**/+(*-OLD*' + ignored + ')'])
 		.pipe(responsive(env.images.resizeConfig, env.images.resizeOptions))
 		.pipe(imagemin(env.images.compressionOptions))
-		.pipe(gulp.dest(env.dev + env.images.base))
-		.pipe(browserSync.stream());
+		.pipe(gulp.dest(env.dev + env.images.base));
 });
 
 /* ============ Optimize Scripts =============== */

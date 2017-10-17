@@ -62,7 +62,13 @@
 			"dev/contact",
 			"dev/construction"
 		],
-		"minifyOptions": {"collapseWhitespace": true}
+		"minifyOptions": {
+			"collapseBooleanAttributes": true,
+			"collapseInlineTagWhitespace": true,
+			"minifyCSS": true,
+			"removeComments": true,
+			"collapseWhitespace": true
+		}
 	},
 	"scripts": {
 		"base": "/assets/js",
