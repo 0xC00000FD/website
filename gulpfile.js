@@ -233,7 +233,7 @@ gulp.task('build', ['clean'], function(cb) {
 
 // Alias build to the default
 gulp.task('default', function(cb) {
-	runSequence('build');
+	runSequence(env.defaultCommand);
 });
 
 // Capitalise function

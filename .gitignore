@@ -10,9 +10,9 @@ env.json
 .htaccess
 
 # Specific
+dev/assets/**/app.min.*
 dev/assets/css/*.css
-dev/assets/**/app.+(min.js,js,min.css,css)
+dev/assets/js/app.js
 
 # Don't add images unless they're in the originals directory
-dev/assets/images
-!dev/assets/images/originals
+dev/assets/images/*.*
