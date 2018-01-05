@@ -243,7 +243,7 @@ String.prototype.capitalise = function() {
 
 // Get CLI arguments
 function getArg(key) {
-  var index = process.argv.indexOf(key);
-  var next = process.argv[index + 1];
-  return (index < 0) ? null : (!next || next[0] === "-") ? true : next;
+	var index = process.argv.indexOf(key);
+	var next = process.argv[index + 1];
+	return (index < 0) ? null : (!next || next[0] === "-") ? true : next;
 }

@@ -1,4 +1,5 @@
 node_modules
+dev/media/after-action-reports
 
 # Environmnent specific
 env.json
