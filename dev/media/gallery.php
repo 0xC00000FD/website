@@ -3,11 +3,13 @@ $query = $_GET['q'];
 $base = $_GET['b'];
 $queryName = str_replace('-', ' ', $query);
 
+$pageTitle = 'AAR Media - ' . ucwords($queryName);
 $description = str_replace("\n", '<br>', file_get_contents("{$base}/{$query}/description.txt"));
 ?>
-<html>  
+<!DOCTYPE HTML>
+<html>
 <head>
-	<title>7AA AAR Media - <?php ucwords($queryName); ?></title>
+	<?php include('../layout/head.php'); ?>
 </head>
 <body bgcolor="#000000">
 	<font color="#FFFFFF" face="Verdana,Arial" size="3">

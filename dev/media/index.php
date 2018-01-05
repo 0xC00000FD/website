@@ -1,9 +1,11 @@
 <?php
+$pageTitle = 'media gallery';
 $base = './after-action-reports';
 ?>
+<!DOCTYPE HTML>
 <html>
 <head>
-	<title>7AA AAR Media</title>
+	<?php include('../layout/head.php'); ?>
 </head>
 <body bgcolor="#000000">
 	<font color="#FFFFFF" face="Verdana,Arial" size="3">
