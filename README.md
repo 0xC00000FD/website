@@ -1,4 +1,4 @@
-# JSFAR Website!
+# 7AA Website!
 It's about time we made a website custom to our style and independent of a free 3rd-party service like Enjin. Thus, this project will aim to build, from the Ground up a new website with all the useful functionality usually offered by Enjin and MORE!
 The great thing about making our own website from the groun up is that we get to choose how things work and how things look. Even if it means building it ourselves.
 
@@ -12,4 +12,4 @@ The Task, Suggestions and Feedback Management will all be handled on Trello. We 
 
 To be added as a Member on Trello, or if you think you could Contribute to some of the code, either **Arend** or **The_Nightstalk3r**
 
-For anything else, **Contact Support @ support@jsfar.com**
+For anything else, **Contact Support @ support@7AA.com**
