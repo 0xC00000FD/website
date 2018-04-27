@@ -12,4 +12,4 @@ The Task, Suggestions and Feedback Management will all be handled on Trello. We 
 
 To be added as a Member on Trello, or if you think you could Contribute to some of the code, either **Arend** or **The_Nightstalk3r**
 
-For anything else, **Contact Support @ support@7AA.com**
+For anything else, **Contact Support @ support@7thaa.com.com**
