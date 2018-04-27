@@ -4,7 +4,7 @@
 					
 					<!-- Logo -->
 					<div id="logo">
-						<h1><a href="./">Joint Special Forces Airborne Regiment</a></h1>
+						<h1><a href="./">7th Air Assault Brigade</a></h1>
 					</div>
 					
 					<!-- Nav -->
