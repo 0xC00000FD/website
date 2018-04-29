@@ -55,8 +55,8 @@ if( isset($_POST['submit']) ) {
 	$body = htmlspecialchars(strip_tags($_POST['body']));
 
 	// Compose Messages
-	$messageAdmin = sprintf('An E-mail was sent using the JSFAR Contact form!<br />%1$s[%2$s] says:<br />%3$s', $fromName, $fromEmail, $body);
-	$messageClient = sprintf('Thank you for contacting us! We will get back to you as soon as possible.<br />If you have any further questions feel free to reply to this email to continue the thread<br /><br />Yours faithfully,<br />JSFAR Support<br /><hr><br />You recently sent the following:<br />%s',
+	$messageAdmin = sprintf('An E-mail was sent using the 7AA Contact form!<br />%1$s[%2$s] says:<br />%3$s', $fromName, $fromEmail, $body);
+	$messageClient = sprintf('Thank you for contacting us! We will get back to you as soon as possible.<br />If you have any further questions feel free to reply to this email to continue the thread<br /><br />Yours faithfully,<br />7AA Support<br /><hr><br />You recently sent the following:<br />%s',
 		$body);
 
 	// If no errors have been created, carry on

@@ -36,7 +36,7 @@ $pageTitle = 'home';
 							The 7AA is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the ERA of 2035. 
 							The 7th Air Assault Brigade is commonly deployed in politically sensitive and/or destabilised regions for classified reconnaissance operations. 
 							</strong></p>
-							<p>Check out our <a href="http://bit.ly/jsfar-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
+							<p>Check out our <a href="http://bit.ly/7aa-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
 							<header>
 								<h2>Biography</h2>
 							</header>
