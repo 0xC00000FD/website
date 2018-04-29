@@ -23,6 +23,7 @@ $pageTitle = 'home';
 							</header>
 							<?php include('inc/teamspeak.php'); ?>
 							<a href="ts3server://ts.7thaa.com" class="button">Join us on Teamspeak</a>
+							<?php include('inc/widget-discord.php'); ?>
 						</section>
 					</div>
 
@@ -98,5 +99,4 @@ $pageTitle = 'home';
 			</div>	
 		</div>
 	</div>
-	<?php
-	include('layout/footer.php');
+	<?php include('layout/footer.php'); ?>
