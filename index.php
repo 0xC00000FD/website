@@ -41,11 +41,7 @@ $pageTitle = 'home';
 								<h2>Biography</h2>
 							</header>
 							<p>
-							The brigade operates as light armoured infantry supported by light combat air assets and light armoured vehicles for a rapid deployment. 
-							The infantry of the brigade have all been trained up to SPEC OPS standards. Therefore, the 7AA's main MO are highly sensitive objectives, received from the Joint NATO Command Centre in Europe. 
-							This SPEC OPS infantry receives support from the Fire Support Group, the Royal Army Medical Corps and the Signals Squadrons. 
-							Together they make a lethal combination on the ground. During a full out war or a classified operation behind enemy lines, the 7AA can handle it all. 
-							As a rapid respone airborne formation, it is one of the few brigades capable of delivering Airborne operations.</p>
+							The infantrymen of this rapid response airborne brigade have all been trained up to SF (Special Forces) standards. Therefore, the 7AA's main deployments are highly sensitive and/or covert operations, received from the Joint NATO Command Centre in Europe. The SFSG (Special Forces Support Group) Infantry is supported in the field by the Mobile Fire Support Group, the Royal Army Medical Corps and the Signals Squadrons. Together they make a lethal combination on the ground. During any operation, the 7AA can count on around the clock assistance from the joint aviation command, more commonly known as the 1st Aviation Squadron. These highly trained pilots and crewman handle transport and close air support with both rotary and fixed wing aircraft. As a rapid response airborne formation, it is one of the few brigades capable of delivering Airborne operations.</p>
 							<header>
 								<h2>Unit Philosophy</h2>
 							</header>
