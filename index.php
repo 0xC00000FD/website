@@ -31,7 +31,6 @@ $pageTitle = 'home';
 					<div class="9u skel-cell-important">
 						<section id="content">
 							<header>
-								<h2>Intro</h2>
 							</header>
 							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3. 
 							The 7AA is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the ERA of 2035. 
@@ -47,7 +46,9 @@ $pageTitle = 'home';
 							This SPEC OPS infantry receives support from the Fire Support Group, the Royal Army Medical Corps and the Signals Squadrons. 
 							Together they make a lethal combination on the ground. During a full out war or a classified operation behind enemy lines, the 7AA can handle it all. 
 							As a rapid respone airborne formation, it is one of the few brigades capable of delivering Airborne operations.</p>
-							<h3>Unit Philosophy</h3>
+							<header>
+								<h2>Unit Philosophy</h2>
+							</header>
 							<ul class="style1">
 								<li>The brigade falls under Special Forces with a UK Army-based rank structure.</li>
 								<li>Players are riflemen at the core. Specialisations are at heart's content.</li>
@@ -61,7 +62,7 @@ $pageTitle = 'home';
 							<header>
 								<h2>Features</h2>
 							</header>
-							<ul class="style1">
+								<ul class="style1">
 								<li>All private servers support <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=845910510">7AA Modpack</a>.</li>
 								<li>Basic to Advanced Training and Dedicated Role training.</li>
 								<li>2 Weekly Operations, private servers online 24/7 for member use.</li>
@@ -69,20 +70,25 @@ $pageTitle = 'home';
 								<li>A place to chill after a hard day, or play CO-OP horror scenarios at night!</li>
 								<li>A balance between performance and fun on the battlefield!</li>
 							</ul>
+							<header>
+								<h2>Arma 3 servers</h2>
+							</header>
 							<p><strong>Global Address: arma3.7thaa.com</strong></p>
 							<ul class="style4">
-								<li><span>Alpha: Private ops</span><?php server1(); ?></li>
-								<li><span>Bravo: Private ALIVE</span> <?php server2(); ?></li>
-								<li><span>Charlie: Escape from Tanoa</span><?php server3(); ?> </li>
-								<li><span>Delta: Escape from Altis</span><?php server4(); ?></li>
-								<li><span>Echo: Zeus Master Altis</span><?php server5(); ?> </li>
-								<li><span>Foxtrot: Zeus Master Tanoa</span><?php server6(); ?></li>
-								<li><span>Golf: Zeus Master Malden</span><?php server7(); ?></li>
+								<li><?php server1(); ?><div> </div><span>ALPHA </span></li>
+								<li><?php server2(); ?><div> </div><span>BRAVO </span> </li>
+								<li><?php server3(); ?><div> </div><span>CHARLIE </span> </li>
+								<li><?php server4(); ?><div> </div><span>DELTA </span></li>
+								<li><?php server5(); ?><div> </div><span>ECHO </span> </li>
+								<li><?php server6(); ?><div> </div><span>FOXTROT </span></li>
+								<li><?php server7(); ?><div> </div><span>GOLF </span></li>
 							</ul>
-							<h3>7AA Mods</h3>
+							<header>
+								<h2>Addon collection</h2>
+							</header>
 							<ul class="style1">
 								<li>Main Files (all required): <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=845910510">Main Files Steam Workshop Collection</a></li>
-								<li>Optional Files (Recommended for enhanced immersion: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1237445004">Option Files Steam Workshop Collection</a></li>
+								<li>Optional Files (Recommended for enhanced immersion): <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1237445004">Optional Files Steam Workshop Collection</a></li>
 								<li>Terrain addons: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=935545021">Server Only Steam Workshop Collection</a></li>
 							</ul>
 							<header>

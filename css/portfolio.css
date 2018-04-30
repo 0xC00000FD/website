@@ -100,6 +100,8 @@ h3 {
 	line-height: 2;
 	font-size: 18pt;
 	margin: 1em 0;
+	color: #323338;
+	font-weight: 500;
 }
 .homepage li {
 	line-height: 1;
@@ -347,6 +349,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00424242', e
 **/
 header h2 {
 	font-weight: 100;
+	padding-top: 30px;
 }
 header.section3 h2:before {
 	content: '\f281';

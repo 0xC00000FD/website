@@ -546,8 +546,8 @@ ul.style1 {
 ul.style1 li {
 	display: block;
 	padding: 1em 0em;
-	border-top: 1px solid #E6E6E6;
-	line-height: 160%;
+	border-bottom: 1px solid #E6E6E6;
+	line-height: 100%;
 }
 
 ul.style1 span
@@ -625,11 +625,12 @@ ul.style3 .first {
 
 /** LIST STYLE 4 */
 
-iframe {
+iframe.server {
 	width: 60%;
 	height: 100px;
 	float: right;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
+	margin-right: 150px;
 }
 
 ul.style4 {
@@ -651,8 +652,14 @@ ul.style4 li {
 
 ul.style4 span
 {
-	margin-top:15%; 
+	text-align: center;
+	margin-top:27%; 
 	width: 50%;
+	margin-left: 50px;
+}
+ul.style4 div
+{
+	line-height: 22px
 }
 
 
@@ -725,7 +732,7 @@ ul.style4 .first {
 
 	#page {
 		padding: 5em 0em;
-		background: #FFF
+		background-color: #fff;
 	}
 	
 	#content header

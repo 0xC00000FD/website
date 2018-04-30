@@ -1,1 +1,1 @@
-<iframe class="widget discord" src="https://discordapp.com/widget?id=368009818289733636&theme=dark" height="400"></iframe>
+<iframe class="widget discord" src="https://discordapp.com/widget?id=368009818289733636&theme=dark" height="700"></iframe>
