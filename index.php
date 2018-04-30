@@ -71,13 +71,13 @@ $pageTitle = 'home';
 							</ul>
 							<p><strong>Global Address: arma3.7thaa.com</strong></p>
 							<ul class="style4">
-								<li><?php server1(); ?><span>Alpha: Private ops</span></li>
-								<li><?php server2(); ?><span>Bravo: Private ALIVE</span> </li>
-								<li><?php server3(); ?><span>Charlie</span> </li>
-								<li><?php server4(); ?> <span>Delta</span></li>
-								<li><?php server5(); ?> <span>Echo</span> </li>
-								<li><?php server6(); ?> <span>Foxtrot</span></li>
-								<li><?php server7(); ?> <span>Golf</span></li>
+								<li><span>Alpha: Private ops</span><?php server1(); ?></li>
+								<li><span>Bravo: Private ALIVE</span> <?php server2(); ?></li>
+								<li><span>Charlie: Escape from Tanoa</span><?php server3(); ?> </li>
+								<li><span>Delta: Escape from Altis</span><?php server4(); ?></li>
+								<li><span>Echo: Zeus Master Altis</span><?php server5(); ?> </li>
+								<li><span>Foxtrot: Zeus Master Tanoa</span><?php server6(); ?></li>
+								<li><span>Golf: Zeus Master Malden</span><?php server7(); ?></li>
 							</ul>
 							<h3>7AA Mods</h3>
 							<ul class="style1">

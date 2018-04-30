@@ -627,12 +627,14 @@ ul.style3 .first {
 
 iframe {
 	width: 60%;
-	vertical-align: middle;
+	height: 100px;
+	float: right;
+	margin-bottom: 20px;
 }
 
 ul.style4 {
 	margin: 0px;
-	padding: 0px 0px 0px 0px;
+	padding: 0px 0px 45px 0px;
 	list-style: none;
 }
 
@@ -644,12 +646,13 @@ ul.style4 li {
 	padding: 1em 0em;
 	border-top: 1px solid #E6E6E6;
 	line-height: 160%;
+	clear:both;
 }
 
 ul.style4 span
 {
-	margin-left: 10%;
-	text-align:-webkit-center;
+	margin-top:15%; 
+	width: 50%;
 }
 
 
