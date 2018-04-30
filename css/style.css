@@ -623,6 +623,42 @@ ul.style3 .first {
 	border-top: none;
 }
 
+/** LIST STYLE 4 */
+
+iframe {
+	width: 60%;
+	vertical-align: middle;
+}
+
+ul.style4 {
+	margin: 0px;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+}
+
+ul.style4 li {
+	font-weight: 700;
+	font-size: 20px;
+	color: #000000;
+	display: block;
+	padding: 1em 0em;
+	border-top: 1px solid #E6E6E6;
+	line-height: 160%;
+}
+
+ul.style4 span
+{
+	margin-left: 10%;
+	text-align:-webkit-center;
+}
+
+
+ul.style4 .first {
+	border-top: none;
+	padding-top: 0px;
+}
+
+
 /** BUTTON STYLE */
 
 	/* Buttons */

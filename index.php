@@ -7,6 +7,7 @@ $pageTitle = 'home';
 	<?php include('layout/head.php'); ?>
 </head>
 <body class="homepage">
+	<?php include('inc/functions.php') ?>
 	<?php include('inc/analytics.php'); ?>
 	<div class="contact">
 		<a href="contact.php"><p><span class="no-mobile">Contact 7AA Command</span></p></a>
@@ -69,14 +70,14 @@ $pageTitle = 'home';
 								<li>A balance between performance and fun on the battlefield!</li>
 							</ul>
 							<p><strong>Global Address: arma3.7thaa.com</strong></p>
-							<ul class="style1">
-								<li>On Alpha server [2302] Private Tactical Operations.</li>
-								<li>On Bravo server [2402] Private AliVE Tactical Operations.</li>
-								<li>On Charlie server [2502] Escape From Tanoa Mods: None.</li>
-								<li>On Delta server [2602] Escape from Altis. Mods: None.</li>
-								<li>On Echo server [2702] Zeus Game Master Altis Mods: None.</li>
-								<li>On Foxtrot server [2802] Zeus Game Master Tanoa Mods: None.</li>
-								<li>On Foxtrot server [2902] Zeus Game Master Malden Mods: None.</li>
+							<ul class="style4">
+								<li><?php server1(); ?><span>Alpha: Private ops</span></li>
+								<li><?php server2(); ?><span>Bravo: Private ALIVE</span> </li>
+								<li><?php server3(); ?><span>Charlie</span> </li>
+								<li><?php server4(); ?> <span>Delta</span></li>
+								<li><?php server5(); ?> <span>Echo</span> </li>
+								<li><?php server6(); ?> <span>Foxtrot</span></li>
+								<li><?php server7(); ?> <span>Golf</span></li>
 							</ul>
 							<h3>7AA Mods</h3>
 							<ul class="style1">

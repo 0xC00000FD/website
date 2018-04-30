@@ -60,6 +60,16 @@
 		margin-bottom: 2.5em;
 	}
 
+	iframe
+	{
+		width: 100%;
+	}
+	ul.style4 span
+	{
+		margin-left: 0%;
+		text-align:-webkit-center;
+	}
+
 	header h2
 	{
 		letter-spacing: normal;
