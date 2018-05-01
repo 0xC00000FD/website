@@ -1,7 +1,7 @@
 {
-  "name": "jsfar-website",
+  "name": "7aa-website",
   "version": "0.1.2",
-  "description": "JSFAR Website construction area. Beware the falling debris that brings our calamity.",
+  "description": "7AA Website construction area. Beware the falling debris that brings our calamity.",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
