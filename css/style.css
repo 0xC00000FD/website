@@ -546,8 +546,8 @@ ul.style1 {
 ul.style1 li {
 	display: block;
 	padding: 1em 0em;
-	border-top: 1px solid #E6E6E6;
-	line-height: 160%;
+	border-bottom: 1px solid #E6E6E6;
+	line-height: 100%;
 }
 
 ul.style1 span
@@ -623,6 +623,52 @@ ul.style3 .first {
 	border-top: none;
 }
 
+/** LIST STYLE 4 */
+
+iframe.server {
+	width: 60%;
+	height: 100px;
+	float: right;
+	margin-bottom: 0px;
+	margin-right: 150px;
+}
+
+ul.style4 {
+	margin: 0px;
+	padding: 0px 0px 45px 0px;
+	list-style: none;
+}
+
+ul.style4 li {
+	font-weight: 700;
+	font-size: 20px;
+	color: #000000;
+	display: block;
+	padding: 1em 0em;
+	border-top: 1px solid #E6E6E6;
+	line-height: 160%;
+	clear:both;
+}
+
+ul.style4 span
+{
+	text-align: center;
+	margin-top:27%; 
+	width: 50%;
+	margin-left: 50px;
+}
+ul.style4 div
+{
+	line-height: 22px
+}
+
+
+ul.style4 .first {
+	border-top: none;
+	padding-top: 0px;
+}
+
+
 /** BUTTON STYLE */
 
 	/* Buttons */
@@ -686,7 +732,7 @@ ul.style3 .first {
 
 	#page {
 		padding: 5em 0em;
-		background: #FFF
+		background-color: #fff;
 	}
 	
 	#content header
