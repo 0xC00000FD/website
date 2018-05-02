@@ -626,11 +626,9 @@ ul.style3 .first {
 /** LIST STYLE 4 */
 
 iframe.server {
-	width: 60%;
+	width: 100%;
 	height: 100px;
-	float: right;
 	margin-bottom: 0px;
-	margin-right: 150px;
 }
 
 ul.style4 {
@@ -647,7 +645,6 @@ ul.style4 li {
 	padding: 1em 0em;
 	border-top: 1px solid #E6E6E6;
 	line-height: 160%;
-	clear:both;
 }
 
 ul.style4 span

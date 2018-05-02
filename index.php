@@ -71,13 +71,13 @@ $pageTitle = 'home';
 							</header>
 							<p><strong>Global Address: arma3.7thaa.com</strong></p>
 							<ul class="style4">
-								<li><?php server1(); ?><div> </div><span>ALPHA </span></li>
-								<li><?php server2(); ?><div> </div><span>BRAVO </span> </li>
-								<li><?php server3(); ?><div> </div><span>CHARLIE </span> </li>
-								<li><?php server4(); ?><div> </div><span>DELTA </span></li>
-								<li><?php server5(); ?><div> </div><span>ECHO </span> </li>
-								<li><?php server6(); ?><div> </div><span>FOXTROT </span></li>
-								<li><?php server7(); ?><div> </div><span>GOLF </span></li>
+								<li><div>ALPHA </div><?php server1(); ?></li>
+								<li><div>BRAVO </div><?php server2(); ?> </li>
+								<li><div>CHARLIE </div> <?php server3(); ?></li>
+								<li><div>DELTA </div><?php server4(); ?></li>
+								<li><div>ECHO </div> <?php server5(); ?></li>
+								<li><div>FOXTROT </div><?php server6(); ?></li>
+								<li><div>GOLF </div><?php server7(); ?></li>
 							</ul>
 							<header>
 								<h2>Addon collection</h2>
