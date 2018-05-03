@@ -94,7 +94,7 @@ $pageTitle = 'home';
 							<p>Do you want to join the 7AA and carry our tag and emblem on the battlefield? Register here: <a href="https://units.arma3.com/unit/7AA">7AA Units Page</a>!</p>
 							<h3>Public Steam Group</h3>
 							<p>Feel free to join our Public steam group! <a href="https://steamcommunity.com/groups/7thaa">Public Steam Group</a></p>
-							<h3>Facebook Page</h3>
+							<h3>Reddit Page</h3>
 							<p>Follow our reddit page!  <a href="https://www.reddit.com/r/7thAA/">7AA reddit Page</a></p>
 						</section>
 					</div>
