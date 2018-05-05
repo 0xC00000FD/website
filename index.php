@@ -32,26 +32,28 @@ $pageTitle = 'home';
 						<section id="content">
 							<header>
 							</header>
-							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3.</strong></p>
+							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3. 
+							The 7AA is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the ERA of 2035. 
+							The 7th Air Assault Brigade is commonly deployed in politically sensitive and/or destabilised regions for classified reconnaissance operations. 
+							</strong></p>
 							<p>Check out our <a href="http://bit.ly/7aa-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
 							<header>
-								<h2>About us</h2>
+								<h2>Biography</h2>
 							</header>
-							<ul class="style1">
-								<li><strong>Gameplay;</strong> The operations of our mission nights are designed and curated by ArmA 3- and Army veterans. These mission nights keep a realistic and serious approach on the field while maintaing the fun and banter. As an Air Assault Brigade we focus on Light Armoured Warfare such as Airborne and Recon operations.</li>
-								<li><strong>Immersion;</strong> Our mods are the main factor to achieve immersion and functionality of our operations. You can find them all on the Steam Workshop, divided into collections to maintain a clear overview.</li>
-								<li><strong>Community;</strong> The 7th AA too embraces its community with both arms, welcoming both players to the game and battle hardened veterans. Both community curated mission nights and community players are no strange sight in our group. During the off hours, you can enjoy regular missions on our (3) peristent servers and banter on our Discord or Teamspeak.</li>
-								<li><strong>Flexibility;</strong> Like no other we understand that players want to experience every aspect of the game. Besides our Rifleman at Core sententia, our extensive training program allows anyone to get the qualifications in their preferred field. For each mission night, a list of available roles is released and filled by player requests.</li>
-								<li><strong>Activity;</strong> We host roughly 8 mission nights per calendar month on Tuesday and Thursday 18:30 BST. Members are free to choose which mission nights are attended. A fair minimum attendance of 50% of the mission nights is required.</li>
-							</ul><br>
+							<p>
+							The infantrymen of this rapid response airborne brigade have all been trained up to SF (Special Forces) standards. Therefore, the 7AA's main deployments are highly sensitive and/or covert operations, received from the Joint NATO Command Centre in Europe. The SFSG (Special Forces Support Group) Infantry is supported in the field by the Mobile Fire Support Group, the Royal Army Medical Corps and the Signals Squadrons. Together they make a lethal combination on the ground. During any operation, the 7AA can count on around the clock assistance from the joint aviation command, more commonly known as the 1st Aviation Squadron. These highly trained pilots and crewman handle transport and close air support with both rotary and fixed wing aircraft. As a rapid response airborne formation, it is one of the few brigades capable of delivering Airborne operations.</p>
 							<header>
-								<h2>Requirements</h2>
+								<h2>Unit Philosophy</h2>
 							</header>
 							<ul class="style1">
-								<li><strong>Respect;</strong> We are looking to play with respectful, patient members who we can trust and laugh with.</li>
-								<li><strong>Community;</strong> We don't want strangers, we ask members to be social and contribute in their own way. Community management roles are on a volunteer base.</li>
-								<li><strong>Maturity;</strong> Players must be easy-going, know when to be serious, and be willing to learn and improve alongside their fellow operators.</li>
-								<li><strong>Communication;</strong> Members must have a working microphone and use during all operations.</li>
+								<li>The brigade falls under Special Forces with a UK Army-based rank structure.</li>
+								<li>Players are riflemen at the core. Specialisations are at heart's content.</li>
+								<li>Players qualified in more than one field can indicate the pool they want to operate in before the briefing of a mission. </li>
+								<li>Everyone is free to speak their mind and offer constructive criticism.</li>
+								<li>Fun is one of the main goals and will always have a higher priority than the seeking of control or false respect.</li>
+								<li>Soft age limit: 18+, 16+ allowed if mature (provided you pass the probation period)</li>
+								<li>2 Private Servers</li>
+								<li>5 Public Servers</li>
 							</ul>
 							<header>
 								<h2>Features</h2>
@@ -86,13 +88,14 @@ $pageTitle = 'home';
 								<li>Terrain addons: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=935545021">Server Only Steam Workshop Collection</a></li>
 							</ul>
 							<header>
-								<h2>Join Us</h2>
+								<h2>Social</h2>
 							</header>
-							<ul class="style1">
-								<li>Want to know more? Join our <a href="https://discord.gg/CTYh7z8">Discord</a> or <a href="ts3server://ts.7thaa.com">Teamspeak</a>. You can also check out our <a href="https://www.reddit.com/r/7thAA/">Subreddit</a> or <a href="https://steamcommunity.com/groups/7thaa">Steam Community Page</a>.</li>
-								<li>Join us on <a href="https://units.arma3.com/unit/7AA">Bohemia Interactive's Unit Page</a> to use our identifier during operations.</li>
-								<li>Looking for the application? Click <a href="application-form.php">here.</a></li>
-							</ul>
+							<h3>Unit Tag</h3>
+							<p>Do you want to join the 7AA and carry our tag and emblem on the battlefield? Register here: <a href="https://units.arma3.com/unit/7AA">7AA Units Page</a>!</p>
+							<h3>Public Steam Group</h3>
+							<p>Feel free to join our Public steam group! <a href="https://steamcommunity.com/groups/7thaa">Public Steam Group</a></p>
+							<h3>Reddit Page</h3>
+							<p>Follow our reddit page!  <a href="https://www.reddit.com/r/7thAA/">7AA reddit Page</a></p>
 						</section>
 					</div>
 				</div>
