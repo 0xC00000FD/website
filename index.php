@@ -32,7 +32,7 @@ $pageTitle = 'home';
 						<section id="content">
 							<header>
 							</header>
-							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3.</strong></p>
+							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3. The 7AA's structure is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the era of NATO's Drawback from Stratis, 2035.</strong></p>
 							<p>Check out our <a href="http://bit.ly/7aa-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
 							<header>
 								<h2>About us</h2>
@@ -48,21 +48,14 @@ $pageTitle = 'home';
 								<h2>Requirements</h2>
 							</header>
 							<ul class="style1">
-								<li><strong>Respect;</strong> We are looking to play with respectful, patient members who we can trust and laugh with.</li>
-								<li><strong>Community;</strong> We don't want strangers, we ask members to be social and contribute in their own way. Community management roles are on a volunteer base.</li>
-								<li><strong>Maturity;</strong> Players must be easy-going, know when to be serious, and be willing to learn and improve alongside their fellow operators.</li>
-								<li><strong>Communication;</strong> Members must have a working microphone and use during all operations.</li>
-							</ul>
-							<header>
-								<h2>Features</h2>
-							</header>
-								<ul class="style1">
-								<li>All private servers support <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=845910510">7AA Modpack</a>.</li>
-								<li>Basic to Advanced Training and Dedicated Role training.</li>
-								<li>2 Weekly Operations, private servers online 24/7 for member use.</li>
-								<li>Friendly and helpful community, joint operations with other communities.</li>
-								<li>A place to chill after a hard day, or play CO-OP horror scenarios at night!</li>
-								<li>A balance between performance and fun on the battlefield!</li>
+								<li><strong>Maturity:</strong> Players must know how to act according to the situation at hand and to mess about.</li>
+								<li><strong>Communication:</strong> Every member must have a decent working microphone so we can communicate.</li>
+								<li><strong>Attendance:</strong> We expect from our members to attend at least 50% of the ops, and our Sunday training sessions. If any issues arise, their commanding officer is to be informed of their absence.</li>
+								<li><strong>Respect:</strong> We are looking for members who can respect our community and it's members and have fun with us.</li>
+								<li><strong>Activity:</strong> We want members who will contribute to the community and enjoy playing ops.</li>
+								<li><strong>Age limit:</strong> We mostly look for 18+, but we also accept younger if they prove their maturity.</li>
+								<li><strong>Language:</strong> Must be able to speak fluent English.</li>
+								<li><strong>Legal Arma 3 copy and Legal Arma 3 Apex (DLC) copy</strong></li>
 							</ul>
 							<header>
 								<h2>Arma 3 servers</h2>
@@ -91,7 +84,14 @@ $pageTitle = 'home';
 							<ul class="style1">
 								<li>Want to know more? Join our <a href="https://discord.gg/CTYh7z8">Discord</a> or <a href="ts3server://ts.7thaa.com">Teamspeak</a>. You can also check out our <a href="https://www.reddit.com/r/7thAA/">Subreddit</a> or <a href="https://steamcommunity.com/groups/7thaa">Steam Community Page</a>.</li>
 								<li>Join us on <a href="https://units.arma3.com/unit/7AA">Bohemia Interactive's Unit Page</a> to use our identifier during operations.</li>
+								<li>Want to do a joint operation between your unit and ours? Let us know!</li>
 								<li>Looking for the application? Click <a href="application-form.php">here.</a></li>
+							<header>
+								<h2>Currently Available</h2>
+							</header>
+							<li><strong>1PARA:</strong> Infantry Roles Available</li>
+							<li><strong>BGC:</strong> Curator roles for members and community</li>
+							<li>Ground support and air support battalion in the <strong>future!</strong></li>
 							</ul>
 						</section>
 					</div>
