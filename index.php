@@ -66,9 +66,7 @@ $pageTitle = 'home';
 								<li><div>BRAVO </div><?php server2(); ?> </li>
 								<li><div>CHARLIE </div> <?php server3(); ?></li>
 								<li><div>DELTA </div><?php server4(); ?></li>
-								<li><div>ECHO </div> <?php server5(); ?></li>
-								<li><div>FOXTROT </div><?php server6(); ?></li>
-								<li><div>GOLF </div><?php server7(); ?></li>
+								<li><div>ECHO </div> <?php server5(); ?></li>								
 							</ul>
 							<header>
 								<h2>Addon collection</h2>
