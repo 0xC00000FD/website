@@ -32,39 +32,30 @@ $pageTitle = 'home';
 						<section id="content">
 							<header>
 							</header>
-							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3. 
-							The 7AA is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the ERA of 2035. 
-							The 7th Air Assault Brigade is commonly deployed in politically sensitive and/or destabilised regions for classified reconnaissance operations. 
-							</strong></p>
+							<p><strong>The 7th Air Assault Brigade (7AA) is multi-national ArmA 3 Tactical Realism group; a gaming community built around Bohemia Interactive's ArmA 3. The 7AA's structure is based on the British 16th AAB, the Army's rapid response airborne formation, operating in the era of NATO's Drawback from Stratis, 2035.</strong></p>
 							<p>Check out our <a href="http://bit.ly/7aa-orbat">ORBAT</a> to have a peak at the current structure of the unit.</p>
 							<header>
-								<h2>Biography</h2>
-							</header>
-							<p>
-							The infantrymen of this rapid response airborne brigade have all been trained up to SF (Special Forces) standards. Therefore, the 7AA's main deployments are highly sensitive and/or covert operations, received from the Joint NATO Command Centre in Europe. The SFSG (Special Forces Support Group) Infantry is supported in the field by the Mobile Fire Support Group, the Royal Army Medical Corps and the Signals Squadrons. Together they make a lethal combination on the ground. During any operation, the 7AA can count on around the clock assistance from the joint aviation command, more commonly known as the 1st Aviation Squadron. These highly trained pilots and crewman handle transport and close air support with both rotary and fixed wing aircraft. As a rapid response airborne formation, it is one of the few brigades capable of delivering Airborne operations.</p>
-							<header>
-								<h2>Unit Philosophy</h2>
+								<h2>About us</h2>
 							</header>
 							<ul class="style1">
-								<li>The brigade falls under Special Forces with a UK Army-based rank structure.</li>
-								<li>Players are riflemen at the core. Specialisations are at heart's content.</li>
-								<li>Players qualified in more than one field can indicate the pool they want to operate in before the briefing of a mission. </li>
-								<li>Everyone is free to speak their mind and offer constructive criticism.</li>
-								<li>Fun is one of the main goals and will always have a higher priority than the seeking of control or false respect.</li>
-								<li>Soft age limit: 18+, 16+ allowed if mature (provided you pass the probation period)</li>
-								<li>2 Private Servers</li>
-								<li>5 Public Servers</li>
-							</ul>
+								<li><strong>Gameplay;</strong> The operations of our mission nights are designed and curated by ArmA 3- and Army veterans. These mission nights keep a realistic and serious approach on the field while maintaing the fun and banter. As an Air Assault Brigade we focus on Light Armoured Warfare such as Airborne and Recon operations.</li>
+								<li><strong>Immersion;</strong> Our mods are the main factor to achieve immersion and functionality of our operations. You can find them all on the Steam Workshop, divided into collections to maintain a clear overview.</li>
+								<li><strong>Community;</strong> The 7th AA too embraces its community with both arms, welcoming both players new to the game and battle hardened veterans. Both community curated mission nights and community players are no strange sight in our group. During the off hours, you can enjoy regular missions on our (3) peristent servers and banter on our Discord or Teamspeak.</li>
+								<li><strong>Flexibility;</strong> Like no other we understand that players want to experience every aspect of the game. Besides our Rifleman at Core sententia, our extensive training program allows anyone to get the qualifications in their preferred field. For each mission night, a list of available roles is released and filled by player requests.</li>
+								<li><strong>Activity;</strong> We host roughly 8 mission nights per calendar month on Tuesday and Thursday 18:30 BST. Members are free to choose which mission nights are attended. A fair minimum attendance of 50% of the mission nights is required.</li>
+							</ul><br>
 							<header>
-								<h2>Features</h2>
+								<h2>Requirements</h2>
 							</header>
-								<ul class="style1">
-								<li>All private servers support <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=845910510">7AA Modpack</a>.</li>
-								<li>Basic to Advanced Training and Dedicated Role training.</li>
-								<li>2 Weekly Operations, private servers online 24/7 for member use.</li>
-								<li>Friendly and helpful community, joint operations with other communities.</li>
-								<li>A place to chill after a hard day, or play CO-OP horror scenarios at night!</li>
-								<li>A balance between performance and fun on the battlefield!</li>
+							<ul class="style1">
+								<li><strong>Maturity:</strong> Players must know how to act according to the situation at hand and to mess about.</li>
+								<li><strong>Communication:</strong> Every member must have a decent working microphone so we can communicate.</li>
+								<li><strong>Attendance:</strong> We expect from our members to attend at least 50% of the ops, and our Sunday training sessions. If any issues arise, their commanding officer is to be informed of their absence.</li>
+								<li><strong>Respect:</strong> We are looking for members who can respect our community and it's members and have fun with us.</li>
+								<li><strong>Activity:</strong> We want members who will contribute to the community and enjoy playing ops.</li>
+								<li><strong>Age limit:</strong> We mostly look for 18+, but we also accept younger if they prove their maturity.</li>
+								<li><strong>Language:</strong> Must be able to speak fluent English.</li>
+								<li><strong>Legal Arma 3 copy and Legal Arma 3 Apex (DLC) copy</strong></li>
 							</ul>
 							<header>
 								<h2>Arma 3 servers</h2>
@@ -76,8 +67,6 @@ $pageTitle = 'home';
 								<li><div>CHARLIE </div> <?php server3(); ?></li>
 								<li><div>DELTA </div><?php server4(); ?></li>
 								<li><div>ECHO </div> <?php server5(); ?></li>
-								<li><div>FOXTROT </div><?php server6(); ?></li>
-								<li><div>GOLF </div><?php server7(); ?></li>
 							</ul>
 							<header>
 								<h2>Addon collection</h2>
@@ -88,14 +77,20 @@ $pageTitle = 'home';
 								<li>Terrain addons: <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=935545021">Server Only Steam Workshop Collection</a></li>
 							</ul>
 							<header>
-								<h2>Social</h2>
+								<h2>Join Us</h2>
 							</header>
-							<h3>Unit Tag</h3>
-							<p>Do you want to join the 7AA and carry our tag and emblem on the battlefield? Register here: <a href="https://units.arma3.com/unit/7AA">7AA Units Page</a>!</p>
-							<h3>Public Steam Group</h3>
-							<p>Feel free to join our Public steam group! <a href="https://steamcommunity.com/groups/7thaa">Public Steam Group</a></p>
-							<h3>Facebook Page</h3>
-							<p>Follow our reddit page!  <a href="https://www.reddit.com/r/7thAA/">7AA reddit Page</a></p>
+							<ul class="style1">
+								<li>Want to know more? Join our <a href="https://discord.gg/CTYh7z8">Discord</a> or <a href="ts3server://ts.7thaa.com">Teamspeak</a>. You can also check out our <a href="https://www.reddit.com/r/7thAA/">Subreddit</a> or <a href="https://steamcommunity.com/groups/7thaa">Steam Community Page</a>.</li>
+								<li>Join us on <a href="https://units.arma3.com/unit/7AA">Bohemia Interactive's Unit Page</a> to use our identifier during operations.</li>
+								<li>Want to do a joint operation between your unit and ours? Let us know!</li>
+								<li>Looking for the application? Click <a href="application-form.php">here.</a></li>
+							<header>
+								<h2>Currently Available</h2>
+							</header>
+							<li><strong>1PARA:</strong> Infantry Roles Available</li>
+							<li><strong>BGC:</strong> Curator roles for members and community</li>
+							<li>Ground support and air support battalion in the <strong>future!</strong></li>
+							</ul>
 						</section>
 					</div>
 				</div>
