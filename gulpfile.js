@@ -247,3 +247,8 @@ function getArg(key) {
 	var next = process.argv[index + 1];
 	return (index < 0) ? null : (!next || next[0] === "-") ? true : next;
 }
+
+//Development tasks
+gulp.task('travis', ['build', 'testServerJS'], function() {
+	process.exit(0);
+});
